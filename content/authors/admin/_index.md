@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Jae-Ho Choi
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Research Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
